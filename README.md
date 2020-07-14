@@ -68,7 +68,7 @@
                 <span>
                     <b>Git</b>
                 </span><br><br>
-                <img height="64px" src="https://cdn.svgporn.com/logos/git.svg">
+                <img height="64px" src="https://cdn.svgporn.com/logos/git-icon.svg">
             </td>
             <td width = "25%" align = "center">
                 <span>
@@ -103,12 +103,6 @@
                     <b>Opera</b>
                 </span><br><br>
                 <img height="64px" src="https://cdn.svgporn.com/logos/opera.svg">
-            </td>
-            <td width = "25%" align = "center">
-                <span>
-                    <b>Yandex</b>
-                </span><br><br>
-                <img height="64px" src="https://cdn.svgporn.com/logos/yandex-ru.svg">
             </td>
             <td width = "25%" align = "center">
                 <span>
