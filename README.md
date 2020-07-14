@@ -121,15 +121,15 @@
         <tr valign = "top">
             <td width = "25%" align = "center">
                 <span>
-                    <b>Ubuntu</b>
-                </span><br><br>
-                <img height="64px" src="https://cdn.svgporn.com/logos/ubuntu.svg">
-            </td>
-            <td width = "25%" align = "center">
-                <span>
                     <b>Linux</b>
                 </span><br><br>
                 <img height="64px" src="https://cdn.svgporn.com/logos/linux-tux.svg">
+            </td>
+            <td width = "25%" align = "center">
+                <span>
+                    <b>Ubuntu</b>
+                </span><br><br>
+                <img height="64px" src="https://cdn.svgporn.com/logos/ubuntu.svg">
             </td>
             <td width = "25%" align = "center">
                 <span>
@@ -149,15 +149,15 @@
         <tr valign = "top">
             <td width = "25%" align = "center">
                 <span>
-                    <b>Archlinux</b>
-                </span><br><br>
-                <img height="64px" src="https://cdn.svgporn.com/logos/archlinux.svg">
-            </td>
-            <td width = "25%" align = "center">
-                <span>
                     <b>Linux</b>
                 </span><br><br>
                 <img height="64px" src="https://cdn.svgporn.com/logos/linux-tux.svg">
+            </td>
+            <td width = "25%" align = "center">
+                <span>
+                    <b>Archlinux</b>
+                </span><br><br>
+                <img height="64px" src="https://cdn.svgporn.com/logos/archlinux.svg">
             </td>
             <td width = "25%" align = "center">
                 <span>
