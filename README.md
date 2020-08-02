@@ -45,9 +45,9 @@
             </td>
             <td width = "25%" align = "center">
                 <span>
-                    <b>Python</b>
+                    <b>C#</b>
                 </span><br><br>
-                <img height="64px" src="https://cdn.svgporn.com/logos/python.svg">
+                <img height="64px" src="https://cdn.svgporn.com/logos/c-sharp.svg">
             </td>
             <td width = "25%" align = "center">
                 <span>
@@ -61,9 +61,9 @@
         <tr valign = "top">
             <td width = "25%" align = "center">
                 <span>
-                    <b>C#</b>
+                    <b>Python</b>
                 </span><br><br>
-                <img height="64px" src="https://cdn.svgporn.com/logos/c-sharp.svg">
+                <img height="64px" src="https://cdn.svgporn.com/logos/python.svg">
             </td>
     </tbody>
 </table>
