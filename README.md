@@ -170,7 +170,7 @@
             </td>
             <td width = "25%" align = "center">
                 <span>
-                    <b>i3 / Bspwm</b>
+                    <b>i3</b>
                 </span><br><br>
                 <img height="64px" src="https://cdn.svgporn.com/logos/terminal.svg">
             </td>
