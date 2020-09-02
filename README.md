@@ -1,6 +1,34 @@
-## 🎓 Programming Languages
+## 🎓 Languages
 
 <table>
+     <tbody>
+        <tr valign = "top">
+            <td width = "25%" align = "center">
+                <span>
+                    <b>C</b>
+                </span><br><br>
+                <img height="64px" src="https://cdn.svgporn.com/logos/c.svg">
+            </td>
+            <td width = "25%" align = "center">
+                <span>
+                    <b>C++</b>
+                </span><br><br>
+                <img height="64px" src="https://cdn.svgporn.com/logos/c-plusplus.svg">
+            </td>
+            <td width = "25%" align = "center">
+                <span>
+                    <b>C#</b>
+                </span><br><br>
+                <img height="64px" src="https://cdn.svgporn.com/logos/c-sharp.svg">
+            </td>
+            <td width = "25%" align = "center">
+                <span>
+                    <b>Bash</b>
+                </span><br><br>
+                <img height="64px" src="https://cdn.svgporn.com/logos/bash.svg">
+            </td>
+        </tr>
+    </tbody>
     <tbody>
         <tr valign = "top">
             <td width = "25%" align = "center">
@@ -26,34 +54,6 @@
                     <b>Nodejs</b>
                 </span><br><br>
                 <img height="64px" src="https://cdn.svgporn.com/logos/nodejs.svg">
-            </td>
-        </tr>
-    </tbody>
-        <tbody>
-        <tr valign = "top">
-            <td width = "25%" align = "center">
-                <span>
-                    <b>C</b>
-                </span><br><br>
-                <img height="64px" src="https://cdn.svgporn.com/logos/c.svg">
-            </td>
-            <td width = "25%" align = "center">
-                <span>
-                    <b>C++</b>
-                </span><br><br>
-                <img height="64px" src="https://cdn.svgporn.com/logos/c-plusplus.svg">
-            </td>
-            <td width = "25%" align = "center">
-                <span>
-                    <b>C#</b>
-                </span><br><br>
-                <img height="64px" src="https://cdn.svgporn.com/logos/c-sharp.svg">
-            </td>
-            <td width = "25%" align = "center">
-                <span>
-                    <b>Bash</b>
-                </span><br><br>
-                <img height="64px" src="https://cdn.svgporn.com/logos/bash.svg">
             </td>
         </tr>
     </tbody>
