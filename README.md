@@ -121,9 +121,9 @@
             </td>
             <td width = "25%" align = "center">
                 <span>
-                    <b>GNU</b>
+                    <b>Heroku</b>
                 </span><br><br>
-                <img height="64px" src="https://cdn.svgporn.com/logos/gnu.svg">
+                <img height="64px" src="https://cdn.svgporn.com/logos/heroku.svg">
             </td>
         </tr>
     </tbody>
