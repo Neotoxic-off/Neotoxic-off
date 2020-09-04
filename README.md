@@ -78,12 +78,12 @@
 
 <table>
     <tbody>
-        <tr valign = "top">
+         <tr valign = "top">
             <td width = "25%" align = "center">
                 <span>
-                    <b>Git</b>
+                    <b>Visual Studio</b>
                 </span><br><br>
-                <img height="64px" src="https://cdn.svgporn.com/logos/git-icon.svg">
+                <img height="64px" src="https://cdn.svgporn.com/logos/visual-studio.svg">
             </td>
             <td width = "25%" align = "center">
                 <span>
@@ -124,6 +124,12 @@
                     <b>Heroku</b>
                 </span><br><br>
                 <img height="64px" src="https://cdn.svgporn.com/logos/heroku.svg">
+            </td>
+            <td width = "25%" align = "center">
+                <span>
+                    <b>Git</b>
+                </span><br><br>
+                <img height="64px" src="https://cdn.svgporn.com/logos/git-icon.svg">
             </td>
         </tr>
     </tbody>
