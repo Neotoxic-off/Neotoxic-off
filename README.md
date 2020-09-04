@@ -21,12 +21,6 @@
                 </span><br><br>
                 <img height="64px" src="https://cdn.svgporn.com/logos/c-sharp.svg">
             </td>
-            <td width = "25%" align = "center">
-                <span>
-                    <b>Bash</b>
-                </span><br><br>
-                <img height="64px" src="https://cdn.svgporn.com/logos/bash.svg">
-            </td>
         </tr>
     </tbody>
     <tbody>
@@ -67,9 +61,21 @@
             </td>
             <td width = "25%" align = "center">
                 <span>
+                    <b>Bash</b>
+                </span><br><br>
+                <img height="64px" src="https://cdn.svgporn.com/logos/bash.svg">
+            </td>
+            <td width = "25%" align = "center">
+                <span>
                     <b>Ruby</b>
                 </span><br><br>
                 <img height="64px" src="https://cdn.svgporn.com/logos/ruby.svg">
+            </td>
+            <td width = "25%" align = "center">
+                <span>
+                    <b>Batch</b>
+                </span><br><br>
+                <img height="64px" src="https://cdn.svgporn.com/logos/batch.svg">
             </td>
     </tbody>
 </table>
@@ -78,7 +84,7 @@
 
 <table>
     <tbody>
-         <tr valign = "top">
+        <tr valign = "top">
             <td width = "25%" align = "center">
                 <span>
                     <b>Visual Studio</b>
@@ -87,7 +93,7 @@
             </td>
             <td width = "25%" align = "center">
                 <span>
-                    <b>Vscode</b>
+                    <b>VSCode</b>
                 </span><br><br>
                 <img height="64px" src="https://cdn.svgporn.com/logos/visual-studio-code.svg">
             </td>
@@ -101,11 +107,39 @@
                 <span>
                     <b>Nano</b>
                 </span><br><br>
-                <img height="64px" src="https://cdn.svgporn.com/logos/terminal.svg">
+                <img height="64px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/8a/Gnu-nano.svg/256px-Gnu-nano.svg.png">
             </td>
         </tr>
     </tbody>
     <tbody>
+        <tr valign = "top">
+            <td width = "25%" align = "center">
+                <span>
+                    <b>Git</b>
+                </span><br><br>
+                <img height="64px" src="https://cdn.svgporn.com/logos/git-icon.svg">
+            </td>
+            <td width = "25%" align = "center">
+                <span>
+                    <b>Github</b>
+                </span><br><br>
+                <img height="64px" src="https://cdn.svgporn.com/logos/github-icon.svg">
+            </td>
+            <td width = "25%" align = "center">
+                <span>
+                    <b>GitKraken</b>
+                </span><br><br>
+                <img height="64px" src="https://cdn.svgporn.com/logos/gitkraken.svg">
+            </td>
+            <td width = "25%" align = "center">
+                <span>
+                    <b>Heroku</b>
+                </span><br><br>
+                <img height="64px" src="https://cdn.svgporn.com/logos/heroku-icon.svg">
+            </td>
+        </tr>
+    </tbody>
+        <tbody>
         <tr valign = "top">
             <td width = "25%" align = "center">
                 <span>
@@ -115,21 +149,9 @@
             </td>
             <td width = "25%" align = "center">
                 <span>
-                    <b>Opera</b>
+                    <b>Slack</b>
                 </span><br><br>
-                <img height="64px" src="https://cdn.svgporn.com/logos/opera.svg">
-            </td>
-            <td width = "25%" align = "center">
-                <span>
-                    <b>Heroku</b>
-                </span><br><br>
-                <img height="64px" src="https://cdn.svgporn.com/logos/heroku.svg">
-            </td>
-            <td width = "25%" align = "center">
-                <span>
-                    <b>Git</b>
-                </span><br><br>
-                <img height="64px" src="https://cdn.svgporn.com/logos/git-icon.svg">
+                <img height="64px" src="https://cdn.svgporn.com/logos/slack-icon.svg">
             </td>
         </tr>
     </tbody>
@@ -202,15 +224,23 @@
                 </span><br><br>
                 <img height="64px" src="https://cdn.svgporn.com/logos/microsoft-windows.svg">
             </td>
-        </tr>
-    </tbody>
-     <tbody>
-        <tr valign = "top">
             <td width = "25%" align = "center">
                 <span>
-                    <b>Raspberry</b>
+                    <b>Ubuntu</b>
                 </span><br><br>
-                <img height="64px" src="https://cdn.svgporn.com/logos/raspberry-pi.svg">
+                <img height="64px" src="https://cdn.svgporn.com/logos/ubuntu.svg">
+            </td>
+            <td width = "25%" align = "center">
+                <span>
+                    <b>None</b>
+                </span><br><br>
+                <img height="64px" src="https://cdn.svgporn.com/logos/terminal.svg">
+            </td>
+            <td width = "25%" align = "center">
+                <span>
+                    <b>ZSH</b>
+                </span><br><br>
+                <img height="64px" src="https://cdn.svgporn.com/logos/hyper.svg">
             </td>
         </tr>
     </tbody>
@@ -221,6 +251,52 @@
                     <b>Raspberry</b>
                 </span><br><br>
                 <img height="64px" src="https://cdn.svgporn.com/logos/raspberry-pi.svg">
+            </td>
+            <td width = "25%" align = "center">
+                <span>
+                    <b>Debian</b>
+                </span><br><br>
+                <img height="64px" src="https://cdn.svgporn.com/logos/debian.svg">
+            </td>
+            <td width = "25%" align = "center">
+                <span>
+                    <b>Gnome</b>
+                </span><br><br>
+                <img height="64px" src="https://cdn.svgporn.com/logos/terminal.svg">
+            </td>
+            <td width = "25%" align = "center">
+                <span>
+                    <b>ZSH</b>
+                </span><br><br>
+                <img height="64px" src="https://cdn.svgporn.com/logos/hyper.svg">
+            </td>
+        </tr>
+    </tbody>
+     <tbody>
+        <tr valign = "top">
+            <td width = "25%" align = "center">
+                <span>
+                    <b>Raspberry</b>
+                </span><br><br>
+                <img height="64px" src="https://cdn.svgporn.com/logos/raspberry-pi.svg">
+            </td>
+            <td width = "25%" align = "center">
+                <span>
+                    <b>Debian Stretch</b>
+                </span><br><br>
+                <img height="64px" src="https://cdn.svgporn.com/logos/debian.svg">
+            </td>
+            <td width = "25%" align = "center">
+            <span>
+                    <b>None</b>
+                </span><br><br>
+                <img height="64px" src="https://cdn.svgporn.com/logos/terminal.svg">
+            </td>
+            <td width = "25%" align = "center">
+                <span>
+                    <b>ZSH</b>
+                </span><br><br>
+                <img height="64px" src="https://cdn.svgporn.com/logos/hyper.svg">
             </td>
         </tr>
     </tbody>
