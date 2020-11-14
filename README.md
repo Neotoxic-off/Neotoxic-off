@@ -1,3 +1,6 @@
+**People are afraid of what they don't understand, so try to understand**
+
+
 ## 🎓 Languages
 
 <table>
