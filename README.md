@@ -155,6 +155,12 @@
                 </span><br><br>
                 <img height="64px" src="https://cdn.svgporn.com/logos/slack-icon.svg">
             </td>
+            <td width = "25%" align = "center">
+                <span>
+                    <b>Spotify</b>
+                </span><br><br>
+                <img height="64px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/19/Spotify_logo_without_text.svg/1200px-Spotify_logo_without_text.svg.png">
+            </td>
         </tr>
     </tbody>
 </table>
@@ -163,13 +169,7 @@
 
 <table>
     <tbody>
-        <tr valign = "top">
-            <td width = "25%" align = "center">
-                <span>
-                    <b>Linux</b>
-                </span><br><br>
-                <img height="64px" src="https://cdn.svgporn.com/logos/linux-tux.svg">
-            </td>
+        <tr valign = "top">  
             <td width = "25%" align = "center">
                 <span>
                     <b>Ubuntu</b>
@@ -178,43 +178,21 @@
             </td>
             <td width = "25%" align = "center">
                 <span>
-                    <b>Gnome</b>
+                    <b>i7 - 8550U</b>
                 </span><br><br>
-                <img height="64px" src="https://cdn.svgporn.com/logos/terminal.svg">
+                <img height="64px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4e/Intel_logo_%282006%29.svg/1005px-Intel_logo_%282006%29.svg.png">
             </td>
             <td width = "25%" align = "center">
                 <span>
-                    <b>ZSH</b>
+                    <b>Mx 150</b>
                 </span><br><br>
-                <img height="64px" src="https://cdn.svgporn.com/logos/hyper.svg">
-            </td>
-        </tr>
-    </tbody>
-    <tbody>
-        <tr valign = "top">
-            <td width = "25%" align = "center">
-                <span>
-                    <b>Linux</b>
-                </span><br><br>
-                <img height="64px" src="https://cdn.svgporn.com/logos/linux-tux.svg">
+                <img height="64px" src="https://www.evolvingsol.com/wp-content/uploads/2020/03/nvidia-png-nvidia-logo-png-2000.png">
             </td>
             <td width = "25%" align = "center">
                 <span>
-                    <b>Archlinux</b>
+                    <b>8 Go RAM</b>
                 </span><br><br>
-                <img height="64px" src="https://cdn.svgporn.com/logos/archlinux.svg">
-            </td>
-            <td width = "25%" align = "center">
-                <span>
-                    <b>i3</b>
-                </span><br><br>
-                <img height="64px" src="https://cdn.svgporn.com/logos/terminal.svg">
-            </td>
-            <td width = "25%" align = "center">
-                <span>
-                    <b>ZSH</b>
-                </span><br><br>
-                <img height="64px" src="https://cdn.svgporn.com/logos/hyper.svg">
+                <img height="64px" src="https://img.icons8.com/windows/452/huawei-logo.png">
             </td>
         </tr>
     </tbody>
@@ -224,81 +202,25 @@
                 <span>
                     <b>Windows</b>
                 </span><br><br>
-                <img height="64px" src="https://cdn.svgporn.com/logos/microsoft-windows.svg">
+                <img height="64px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/5/5f/Windows_logo_-_2012.svg/480px-Windows_logo_-_2012.svg.png">
             </td>
             <td width = "25%" align = "center">
                 <span>
-                    <b>Ubuntu</b>
+                    <b>Ryzen 7 2700x</b>
                 </span><br><br>
-                <img height="64px" src="https://cdn.svgporn.com/logos/ubuntu.svg">
+                <img height="64px" src="https://i.dlpng.com/static/png/6442725_preview.png">
             </td>
             <td width = "25%" align = "center">
                 <span>
-                    <b>None</b>
+                    <b>RTX 2060</b>
                 </span><br><br>
-                <img height="64px" src="https://cdn.svgporn.com/logos/terminal.svg">
+                <img height="64px" src="https://www.evolvingsol.com/wp-content/uploads/2020/03/nvidia-png-nvidia-logo-png-2000.png">
             </td>
             <td width = "25%" align = "center">
                 <span>
-                    <b>ZSH</b>
+                    <b>32 Go RAM</b>
                 </span><br><br>
-                <img height="64px" src="https://cdn.svgporn.com/logos/hyper.svg">
-            </td>
-        </tr>
-    </tbody>
-     <tbody>
-        <tr valign = "top">
-            <td width = "25%" align = "center">
-                <span>
-                    <b>Raspberry</b>
-                </span><br><br>
-                <img height="64px" src="https://cdn.svgporn.com/logos/raspberry-pi.svg">
-            </td>
-            <td width = "25%" align = "center">
-                <span>
-                    <b>Debian</b>
-                </span><br><br>
-                <img height="64px" src="https://cdn.svgporn.com/logos/debian.svg">
-            </td>
-            <td width = "25%" align = "center">
-                <span>
-                    <b>Gnome</b>
-                </span><br><br>
-                <img height="64px" src="https://cdn.svgporn.com/logos/terminal.svg">
-            </td>
-            <td width = "25%" align = "center">
-                <span>
-                    <b>ZSH</b>
-                </span><br><br>
-                <img height="64px" src="https://cdn.svgporn.com/logos/hyper.svg">
-            </td>
-        </tr>
-    </tbody>
-    <tbody>
-        <tr valign = "top">
-            <td width = "25%" align = "center">
-                <span>
-                    <b>Raspberry</b>
-                </span><br><br>
-                <img height="64px" src="https://cdn.svgporn.com/logos/raspberry-pi.svg">
-            </td>
-            <td width = "25%" align = "center">
-                <span>
-                    <b>Debian Stretch</b>
-                </span><br><br>
-                <img height="64px" src="https://cdn.svgporn.com/logos/debian.svg">
-            </td>
-            <td width = "25%" align = "center">
-            <span>
-                    <b>None</b>
-                </span><br><br>
-                <img height="64px" src="https://cdn.svgporn.com/logos/terminal.svg">
-            </td>
-            <td width = "25%" align = "center">
-                <span>
-                    <b>ZSH</b>
-                </span><br><br>
-                <img height="64px" src="https://cdn.svgporn.com/logos/hyper.svg">
+                <img height="64px" src="https://img.icons8.com/windows/452/corsair.png">
             </td>
         </tr>
     </tbody>
