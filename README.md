@@ -1,5 +1,3 @@
-**People are afraid of what they don't understand, so try to understand**
-
 ## 🎓 Languages
 
 <table>
@@ -225,6 +223,8 @@
         </tr>
     </tbody>
 </table>
+
+[![trophy](https://github-profile-trophy.vercel.app/?username=Neotoxic-off&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
 
 <p>
     <img src = "https://github-readme-stats.vercel.app/api?username=Neotoxic-off&show_icons=true&theme=dark">
