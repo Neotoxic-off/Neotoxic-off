@@ -10,7 +10,7 @@
 </p>
 
 <p align = "center">
-    <strong><a href="https://discord.gg/QWSZmNq4YQ">Discord</a></strong>
+    <strong><a href="https://64.media.tumblr.com/c75aec5ef73a7d164e629e7032584f4f/tumblr_o79shuXSfS1vql0vao1_500.gifv">Discord</a></strong>
 </p>
 
 <p align = "center">❤ I'm currently working on Cheats, Scripts, Engines, and Content Creation. ❤</p>
