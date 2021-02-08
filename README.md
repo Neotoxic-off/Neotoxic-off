@@ -10,7 +10,7 @@
 </p>
 
 <p align = "center">
-    <strong><a href=" https://discord.gg/QWSZmNq4YQ">Discord</a></strong>
+    <strong><a href="https://discord.gg/QWSZmNq4YQ">Discord</a></strong>
 </p>
 
 <p align = "center">❤ I'm currently working on Cheats, Scripts, Engines, and Content Creation. ❤</p>
