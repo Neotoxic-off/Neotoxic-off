@@ -2,14 +2,6 @@
     <a><img src="https://raw.githubusercontent.com/Neotoxic-off/Neotoxic-off/master/img/tenor.gif" alt="[002]"></a>
 </p>
 
-<p align="center">
-  <a href="https://github.com/Neotoxic-off"><img src="https://github-readme-stats.vercel.app/api?username=Neotoxic-off&show_icons=true&theme=dracula&hide_border=true" alt="Neotoxic-off's github stats"></a>
-</p>
-
-<p align = "center">
-    <strong><a href="https://discord.gg/QWSZmNq4YQ">Discord</a></strong>
-</p>
-
 <p align = "center">
     <a>
         <img alt="NodeJS" src="https://img.shields.io/badge/node.js%20-%2343853D.svg?&style=for-the-badge&logo=node.js&logoColor=white"/>
@@ -55,6 +47,14 @@
 <h1 align="center">
     Welcome to my profile darling
 </h1>
+
+<p align="center">
+  <a href="https://github.com/Neotoxic-off"><img src="https://github-readme-stats.vercel.app/api?username=Neotoxic-off&show_icons=true&theme=dracula&hide_border=true" alt="Neotoxic-off's github stats"></a>
+</p>
+
+<p align = "center">
+    <strong><a href="https://discord.gg/QWSZmNq4YQ">Discord</a></strong>
+</p>
 
 
 <p align = "center">
