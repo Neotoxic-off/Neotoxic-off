@@ -1,5 +1,5 @@
 <p align="center">
-    <a><img src="https://raw.githubusercontent.com/Neotoxic-off/Neotoxic-off/master/img/zero%20two.png" alt="[002]"></a>
+    <a><img src="https://raw.githubusercontent.com/Neotoxic-off/Neotoxic-off/master/img/2.png" alt="[002]"></a>
 </p>
 
 <p align = "center">
@@ -33,6 +33,10 @@
     <a>
         <img alt="Shell Script" src="https://img.shields.io/badge/shell_script%20-%23121011.svg?&style=for-the-badge&logo=gnu-bash&logoColor=white"/>
     </a>
+</p>
+
+<p align="center">
+    <a><img src="https://raw.githubusercontent.com/Neotoxic-off/Neotoxic-off/master/img/tenor.gif" alt="[002]"></a>
 </p>
 
 <h1 align="center">
