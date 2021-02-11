@@ -35,10 +35,6 @@
     </a>
 </p>
 
-<p align="center">
-    <a><img src="https://raw.githubusercontent.com/Neotoxic-off/Neotoxic-off/master/img/tenor.gif" alt="[002]"></a>
-</p>
-
 <h1 align="center">
     Hi, I'm
     <a href="https://github.com/Neotoxic-off">
