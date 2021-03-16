@@ -47,6 +47,7 @@
 
 <p align="center">
   <a href="https://github.com/Neotoxic-off"><img src="https://github-readme-stats.vercel.app/api?username=Neotoxic-off&show_icons=true&theme=dracula&hide_border=true" alt="Neotoxic-off's github stats"></a>
+  <a href="https://github.com/Neotoxic-off"><img src="https://github-readme-stats-three-dun.vercel.app/api/top-langs/?username=Neotoxic-off&show_icons=true&theme=dracula&hide_border=true" alt="Neotoxic-off's github languages"></a>
 </p>
 
 <p align = "center">
