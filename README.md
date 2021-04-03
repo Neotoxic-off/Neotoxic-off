@@ -50,10 +50,6 @@
   <a href="https://github.com/Neotoxic-off"><img src="https://github-readme-stats-three-dun.vercel.app/api/top-langs/?username=Neotoxic-off&theme=dracula&hide_border=true&layout=compact" alt="Neotoxic-off's github languages"></a>
 </p>
 
-<p align = "center">
-    <strong><a href="https://discord.gg/QWSZmNq4YQ">Discord</a></strong>
-</p>
-
 
 <p align = "center">
     ❤ I'm currently working on Cheats, Scripts, Engines, and Content Creation. ❤
