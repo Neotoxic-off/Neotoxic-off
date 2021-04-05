@@ -52,5 +52,5 @@
 
 
 <p align = "center">
-    ❤ I'm currently working on Cheats, Scripts, Engines, and Content Creation. ❤
+    ❤ I only hope that my current me is better than the previous one ❤
 </p>
