@@ -1,5 +1,5 @@
 <p align="center">
-    <a><img src="https://raw.githubusercontent.com/Neotoxic-off/Neotoxic-off/master/img/araara.png" alt="Akeno"></a>
+    <a><img src="https://raw.githubusercontent.com/Neotoxic-off/Neotoxic-off/master/img/yuuna.png" alt="Yuuna"></a>
 </p>
 
 <p align = "center">
