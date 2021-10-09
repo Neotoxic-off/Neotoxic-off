@@ -1,7 +1,3 @@
-<p align="center">
-    <a><img src="https://raw.githubusercontent.com/Neotoxic-off/Neotoxic-off/master/img/ara_ara_1.png" alt="Ara Ara"></a>
-</p>
-
 <p align = "center">
     <a>
         <img alt="NodeJS" src="https://img.shields.io/badge/node.js%20-%2343853D.svg?&style=for-the-badge&logo=node.js&logoColor=white"/>
