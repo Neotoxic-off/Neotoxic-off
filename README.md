@@ -52,6 +52,10 @@
   
 </p>
 
+<p align="center">
+    <a><img src="https://github.com/Fn79/Fn79/raw/snake/snake.svg" alt="Snake"></a>
+</p>
+
 
 <p align = "center">
     ❤ I only hope that my current me is better than the previous one ❤
