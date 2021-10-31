@@ -37,9 +37,6 @@
         Иэο
     </a>!
 </h1>
-<h1 align="center">
-    Welcome to my profile darling
-</h1>
 
 <p align="center">
     <a href="https://github.com/Neotoxic-off"><img src="http://github-readme-streak-stats.herokuapp.com/?user=Neotoxic-off&theme=dracula&hide_border=true"></a>
