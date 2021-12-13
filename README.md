@@ -52,7 +52,7 @@
 
 
 <p align = "center">
-    ❤ I only hope that my current me is better than the previous one ❤
+    I only hope that my current me is better than the previous one
     
 </p>
 
