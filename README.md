@@ -40,9 +40,8 @@
 
 <p align="center">
     <a href="https://github.com/Neotoxic-off"><img src="http://github-readme-streak-stats.herokuapp.com/?user=Neotoxic-off&theme=dracula&hide_border=true"></a>
-    <a href="https://github.com/Neotoxic-off"><img src="https://github-readme-stats.vercel.app/api?username=Neotoxic-off&show_icons=true&theme=dracula&hide_border=true" alt="Neotoxic-off's github stats"></a>
+    
     <a href="https://github.com/Neotoxic-off"><img src="https://github-readme-stats-three-dun.vercel.app/api/top-langs/?username=Neotoxic-off&theme=dracula&hide_border=true&layout=compact" alt="Neotoxic-off's github languages"></a>
-    <a href="https://github.com/Neotoxic-off"><img src="https://github-profile-trophy.vercel.app/?username=Neotoxic-off&theme=dracula" alt="Neotoxic-off's trophy"></a>
   
 </p>
 
