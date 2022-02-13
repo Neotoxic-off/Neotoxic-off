@@ -45,10 +45,6 @@
     <a href="https://github.com/Neotoxic-off"><img src="https://activity-graph.herokuapp.com/graph?username=Neotoxic-off&bg_color=0D1117&color=e05397&line=e05397&point=FFFFFF&hide_border=true&"></a>
 </p>
 
-<p align="center">
-    <a><img src="https://github.com/Fn79/Fn79/raw/snake/snake.svg" alt="Snake"></a>
-</p>
-
 
 <p align = "center">
     I only hope that my current me is better than the previous one
