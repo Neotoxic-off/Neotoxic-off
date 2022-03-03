@@ -33,7 +33,7 @@
 
 <p align = "center">
     <a>
-        <img alt="Docker" src="https://img.shields.io/badge/docker%20-%2314354C.svg?&style=for-the-badge&logo=python&logoColor=blue"/>
+        <img alt="Docker" src="https://img.shields.io/badge/docker%20-%2314354C.svg?&style=for-the-badge&logo=docker&logoColor=blue"/>
     </a>
     <a>
         <img alt="Mongodb" src="https://img.shields.io/badge/mongodb%20-%2314354C.svg?&style=for-the-badge&logo=mongodb&logoColor=green"/>
