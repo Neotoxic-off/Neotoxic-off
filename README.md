@@ -39,7 +39,7 @@
         <img alt="Mongodb" src="https://img.shields.io/badge/mongodb%20-%2314354C.svg?&style=for-the-badge&logo=mongodb&logoColor=white"/>
     </a>
     <a>
-        <img alt="Flask" src="https://img.shields.io/badge/flask%20-%2300599C.svg?&style=for-the-badge&logo=flask&ogoColor=cyan"/>
+        <img alt="Flask" src="https://img.shields.io/badge/flask%20-%2300599C.svg?&style=for-the-badge&logo=flask&ogoColor=green"/>
     </a>
 </p>
 
