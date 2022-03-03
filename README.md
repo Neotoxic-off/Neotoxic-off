@@ -33,10 +33,10 @@
 
 <p align = "center">
     <a>
-        <img alt="Docker" src="https://img.shields.io/badge/docker%20-%2314354C.svg?&style=for-the-badge&logo=docker&logoColor=green"/>
+        <img alt="Docker" src="https://img.shields.io/badge/docker%20-%2314354C.svg?&style=for-the-badge&logo=docker&logoColor=cyan"/>
     </a>
     <a>
-        <img alt="Mongodb" src="https://img.shields.io/badge/mongodb%20-%2314354C.svg?&style=for-the-badge&logo=mongodb&logoColor=green"/>
+        <img alt="Mongodb" src="https://img.shields.io/badge/mongodb%20-%2343853D.svg?&style=for-the-badge&logo=mongodb&logoColor=green"/>
     </a>
     <a>
         <img alt="Flask" src="https://img.shields.io/badge/flask%20-%2300599C.svg?&style=for-the-badge&logo=flask&ogoColor=green"/>
