@@ -54,11 +54,22 @@
 </p>
 
 <h1 align="center">
-    Hi, I'm
+    Hi, i am
     <a href="https://github.com/Neotoxic-off">
-        Иэο
+        Иeo
     </a>!
 </h1>
+<h1 align="center">
+    <p>
+        Elevatia's owner
+    </p>
+    <p>
+        Cheater and modder by passion
+    </p>
+</h1>
+
+
+    
 
 <p align="center">
     <a href="https://github.com/Neotoxic-off"><img src="http://github-readme-streak-stats.herokuapp.com/?user=Neotoxic-off&theme=dracula&hide_border=true"></a>
