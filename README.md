@@ -46,10 +46,10 @@
         <img alt="Postman" src="https://img.shields.io/badge/postman%20-%23ff4719.svg?&style=for-the-badge&logo=postman&logoColor=white"/>
     </a>
     <a>
-        <img alt="Unity" src="https://img.shields.io/badge/reverse%20unity%20-%2300599C.svg?&style=for-the-badge&logo=unity&logoColor=white"/>
+        <img alt="Unity" src="https://img.shields.io/badge/modder%20unity%20-%2300599C.svg?&style=for-the-badge&logo=unity&logoColor=white"/>
     </a>
     <a>
-        <img alt="Unreal" src="https://img.shields.io/badge/reverse%20unreal%20-%2300599C.svg?&style=for-the-badge&logo=unreal%20engine&logoColor=white"/>
+        <img alt="Unreal" src="https://img.shields.io/badge/modder%20unreal%20-%2300599C.svg?&style=for-the-badge&logo=unreal%20engine&logoColor=white"/>
     </a>
 </p>
 
