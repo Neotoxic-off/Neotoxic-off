@@ -55,7 +55,7 @@
 
 <h1 align="center">
     Hi, i am
-    <a href="https://github.com/Neotoxic-off">
+    <a href="https://neotoxic-off.github.io/">
         Иeo
     </a>!
 </h1>
