@@ -64,7 +64,7 @@
         Elevatia's owner
     </p>
     <p>
-        Cheater and modder by passion
+        Developer / Reverser / Third party software developer by passion
     </p>
 </h1>
 
@@ -80,6 +80,5 @@
 
 <p align = "center">
     I only hope that my current me is better than the previous one
-    
 </p>
 
