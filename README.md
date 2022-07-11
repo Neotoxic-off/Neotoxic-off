@@ -76,30 +76,26 @@
 <h1 align="center">
     <p>
         <img src="http://github-readme-streak-stats.herokuapp.com/?user=Neotoxic-off&theme=dracula&hide_border=true">
-        <img src="https://github-readme-stats.vercel.app/api/wakatime?username=Neotoxic-off">
     </p>
     <p>
         <img src="https://github-readme-stats.vercel.app/api?username=Neotoxic-off&hide_border=true&count_private=true&show_icons=true&theme=dracula">
         <img src="https://github-readme-stats-three-dun.vercel.app/api/top-langs/?username=Neotoxic-off&theme=dracula&hide_border=true&layout=compact">
-    </p>
-    <p>
-        <img src="https://github-readme-stats.vercel.app/api/wakatime?username=Neotoxic-off">
     </p>
 </h1>
 
 
 <h1 align="center">
     <p>
-        <img src="https://github-readme-stats.vercel.app/api/pin/?username=Elevatia&repo=Immunity">
-        <img src="https://github-readme-stats.vercel.app/api/pin/?username=Elevatia&repo=Stabbed">
+        <img src="https://github-readme-stats.vercel.app/api/pin/?username=Elevatia&repo=Immunity&title_color=DD6387&icon_color=DD6387&bg_color=282A36">
+        <img src="https://github-readme-stats.vercel.app/api/pin/?username=Elevatia&repo=Stabbed&title_color=DD6387&icon_color=DD6387&bg_color=282A36">
     </p>
     <p>
-        <img src="https://github-readme-stats.vercel.app/api/pin/?username=Elevatia&repo=Dies-Irae">
-        <img src="https://github-readme-stats.vercel.app/api/pin/?username=Elevatia&repo=Kyrie">
+        <img src="https://github-readme-stats.vercel.app/api/pin/?username=Elevatia&repo=Dies-Irae&title_color=DD6387&icon_color=DD6387&bg_color=282A36">
+        <img src="https://github-readme-stats.vercel.app/api/pin/?username=Elevatia&repo=Kyrie&title_color=DD6387&icon_color=DD6387&bg_color=282A36">
     </p>
     <p>
-        <img src="https://github-readme-stats.vercel.app/api/pin/?username=Elevatia&repo=anakata">
-        <img src="https://github-readme-stats.vercel.app/api/pin/?username=Elevatia&repo=Redose">
+        <img src="https://github-readme-stats.vercel.app/api/pin/?username=Elevatia&repo=anakata&title_color=DD6387&icon_color=DD6387&bg_color=282A36">
+        <img src="https://github-readme-stats.vercel.app/api/pin/?username=Elevatia&repo=Redose&title_color=DD6387&icon_color=DD6387&bg_color=282A36">
     </p>
 </h1>
 
