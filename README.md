@@ -14,9 +14,6 @@
     <a>
         <img alt="Bash" src="img/bash/bash-plain.svg" width="5%" height="5%"/>
     </a>
-</p>
-
-<p align = "center">
     <a>
         <img alt="Docker" src="img/docker/docker-plain.svg" width="5%" height="5%"/>
     </a>
@@ -35,9 +32,6 @@
     <a>
         <img alt="Dotnet" src="img/dot-net/dot-net-plain.svg" width="5%" height="5%"/>
     </a>
-</p>
-
-<p align = "center">
     <a>
         <img alt="Git" src="img/git/git-plain.svg" width="5%" height="5%"/>
     </a>
@@ -50,9 +44,6 @@
     <a>
         <img alt="Windows" src="img/windows8/windows8-original.svg" width="5%" height="5%"/>
     </a>
-</p>
-
-<p align = "center">
     <a>
         <img alt="Vim" src="img/vim/vim-plain.svg" width="5%" height="5%"/>
     </a>
