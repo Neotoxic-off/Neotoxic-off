@@ -54,28 +54,26 @@
 </p>
 
 <h1 align="center">
-    Hi, i am
-    <a href="https://neotoxic-off.github.io/">
-        Иeo
-    </a>!
+    <p>
+        <img src="https://readme-typing-svg.herokuapp.com/?color=DD6387&center=true&lines=Developer+-+Reverser+-+Cheater">
+    </p>
+    <p>
+        <img src="https://readme-typing-svg.herokuapp.com/?color=DD6387&center=true&lines=Third+party+%26+Tools+builder">
+    </p>
 </h1>
+
+
 <h1 align="center">
     <p>
-        Elevatia's owner
+        <img src="http://github-readme-streak-stats.herokuapp.com/?user=Neotoxic-off&theme=dracula&hide_border=true">
     </p>
     <p>
-        Developer / Reverser / Third party software developer by passion
+        <img src="https://github-readme-stats.vercel.app/api?username=Neotoxic-off&hide_border=true&count_private=true&show_icons=true&theme=dracula">
+    </p>
+    <p>
+        <img src="https://github-readme-stats-three-dun.vercel.app/api/top-langs/?username=Neotoxic-off&theme=dracula&hide_border=true&layout=compact">
     </p>
 </h1>
-
-
-    
-
-<p align="center">
-    <a href="https://github.com/Neotoxic-off"><img src="http://github-readme-streak-stats.herokuapp.com/?user=Neotoxic-off&theme=dracula&hide_border=true"></a>
-    <a href="https://github.com/Neotoxic-off"><img src="https://github-readme-stats.vercel.app/api?username=Neotoxic-off&hide_border=true&count_private=true&show_icons=true&theme=dracula"></a>
-    <a href="https://github.com/Neotoxic-off"><img src="https://github-readme-stats-three-dun.vercel.app/api/top-langs/?username=Neotoxic-off&theme=dracula&hide_border=true&layout=compact" alt="Neotoxic-off's github languages"></a>
-</p>
 
 
 <p align = "center">
