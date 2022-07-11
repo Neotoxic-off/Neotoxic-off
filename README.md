@@ -6,25 +6,25 @@
         <img alt="C" src="img/c/c-plain.svg" width="5%" height="5%"/>
     </a>
     <a>
-        <img alt="C++" src="img/cplusplus/cplusplus-plain.svg" width="25%" height="25%"/>
+        <img alt="C++" src="img/cplusplus/cplusplus-plain.svg" width="5%" height="5%"/>
     </a>
     <a>
-        <img alt="C#" src="img/csharp/csharp-plain.svg" width="25%" height="25%"/>
+        <img alt="C#" src="img/csharp/csharp-plain.svg" width="5%" height="5%"/>
     </a>
     <a>
-        <img alt="Bash" src="img/bash/bash-plain.svg" width="25%" height="25%"/>
+        <img alt="Bash" src="img/bash/bash-plain.svg" width="5%" height="5%"/>
     </a>
 </p>
 
 <p align = "center">
     <a>
-        <img alt="Docker" src="https://img.shields.io/badge/docker%20-%2314354C.svg?&style=for-the-badge&logo=docker&logoColor=cyan"/>
+        <img alt="Docker" src="img/docker/docker-plain.svg" width="5%" height="5%"/>
     </a>
     <a>
-        <img alt="Mongodb" src="https://img.shields.io/badge/mongodb%20-%2343853D.svg?&style=for-the-badge&logo=mongodb&logoColor=green"/>
+        <img alt="Mongodb" src="img/mongodb/mongodb-plain.svg" width="5%" height="5%"/>
     </a>
     <a>
-        <img alt="Flask" src="https://img.shields.io/badge/flask%20-%2300599C.svg?&style=for-the-badge&logo=flask&ogoColor=green"/>
+        <img alt="Flask" src="img/flask/flask-original.svg" width="5%" height="5%"/>
     </a>
     <a>
         <img alt="Heroku" src="https://img.shields.io/badge/heroku%20-%23a004b5.svg?&style=for-the-badge&logo=heroku&ogoColor=white"/>
