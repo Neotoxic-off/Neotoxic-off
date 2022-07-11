@@ -27,29 +27,46 @@
         <img alt="Flask" src="img/flask/flask-original.svg" width="5%" height="5%"/>
     </a>
     <a>
-        <img alt="Heroku" src="https://img.shields.io/badge/heroku%20-%23a004b5.svg?&style=for-the-badge&logo=heroku&ogoColor=white"/>
+        <img alt="Heroku" src="img/heroku/heroku-plain.svg"  width="5%" height="5%"/>
     </a>
     <a>
-        <img alt="Dotnet" src="https://img.shields.io/badge/.Net%20-%2314354C.svg?&style=for-the-badge&logo=dotnet&ogoColor=white"/>
+        <img alt="Dotnet" src="img/dotnetcore/dotnetcore-plain.svg" width="5%" height="5%"/>
+    </a>
+    <a>
+        <img alt="Dotnet" src="img/dot-net/dot-net-plain.svg" width="5%" height="5%"/>
     </a>
 </p>
 
+<p align = "center">
+    <a>
+        <img alt="Git" src="img/git/git-plain.svg" width="5%" height="5%"/>
+    </a>
+    <a>
+        <img alt="Github" src="img/github/github-original.svg" width="5%" height="5%"/>
+    </a>
+    <a>
+        <img alt="Linux" src="img/linux/linux-plain.svg" width="5%" height="5%"/>
+    </a>
+    <a>
+        <img alt="Windows" src="img/windows8/windows8-original.svg" width="5%" height="5%"/>
+    </a>
+</p>
 
 <p align = "center">
     <a>
-        <img alt="Git" src="https://img.shields.io/badge/git%20-%23ff4719.svg?&style=for-the-badge&logo=git&logoColor=white"/>
+        <img alt="Vim" src="img/vim/vim-plain.svg" width="5%" height="5%"/>
     </a>
     <a>
-        <img alt="Linux" src="https://img.shields.io/badge/linux%20-%23e3df00.svg?&style=for-the-badge&logo=linux&logoColor=white"/>
+        <img alt="Latex" src="img/latex/latex-original.svg" width="5%" height="5%"/>
     </a>
     <a>
-        <img alt="Postman" src="https://img.shields.io/badge/postman%20-%23ff4719.svg?&style=for-the-badge&logo=postman&logoColor=white"/>
+        <img alt="Markdown" src="img/markdown/markdown-original.svg" width="5%" height="5%"/>
     </a>
     <a>
-        <img alt="Unity" src="https://img.shields.io/badge/modder%20unity%20-%2300599C.svg?&style=for-the-badge&logo=unity&logoColor=white"/>
+        <img alt="Unity" src="img/unity/unity-original.svg" width="5%" height="5%"/>
     </a>
     <a>
-        <img alt="Unreal" src="https://img.shields.io/badge/modder%20unreal%20-%2300599C.svg?&style=for-the-badge&logo=unreal%20engine&logoColor=white"/>
+        <img alt="Unreal" src="img/unrealengine/unrealengine-original.svg" width="5%" height="5%"/>
     </a>
 </p>
 
