@@ -76,15 +76,32 @@
 <h1 align="center">
     <p>
         <img src="http://github-readme-streak-stats.herokuapp.com/?user=Neotoxic-off&theme=dracula&hide_border=true">
+        <img src="https://github-readme-stats.vercel.app/api/wakatime?username=Neotoxic-off">
     </p>
     <p>
         <img src="https://github-readme-stats.vercel.app/api?username=Neotoxic-off&hide_border=true&count_private=true&show_icons=true&theme=dracula">
+        <img src="https://github-readme-stats-three-dun.vercel.app/api/top-langs/?username=Neotoxic-off&theme=dracula&hide_border=true&layout=compact">
     </p>
     <p>
-        <img src="https://github-readme-stats-three-dun.vercel.app/api/top-langs/?username=Neotoxic-off&theme=dracula&hide_border=true&layout=compact">
+        <img src="https://github-readme-stats.vercel.app/api/wakatime?username=Neotoxic-off">
     </p>
 </h1>
 
+
+<h1 align="center">
+    <p>
+        <img src="https://github-readme-stats.vercel.app/api/pin/?username=Elevatia&repo=Immunity">
+        <img src="https://github-readme-stats.vercel.app/api/pin/?username=Elevatia&repo=Stabbed">
+    </p>
+    <p>
+        <img src="https://github-readme-stats.vercel.app/api/pin/?username=Elevatia&repo=Dies-Irae">
+        <img src="https://github-readme-stats.vercel.app/api/pin/?username=Elevatia&repo=Kyrie">
+    </p>
+    <p>
+        <img src="https://github-readme-stats.vercel.app/api/pin/?username=Elevatia&repo=anakata">
+        <img src="https://github-readme-stats.vercel.app/api/pin/?username=Elevatia&repo=Redose">
+    </p>
+</h1>
 
 <p align = "center">
     I only hope that my current me is better than the previous one
