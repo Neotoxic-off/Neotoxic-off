@@ -1,9 +1,9 @@
 <p align = "center">
     <a>
-        <img alt="Python" src="img/python/python-plain.svg" width="25%" height="25%"/>
+        <img alt="Python" src="img/python/python-plain.svg" width="5%" height="5%"/>
     </a>
     <a>
-        <img alt="C" src="img/c/c-plain.svg" width="25%" height="25%"/>
+        <img alt="C" src="img/c/c-plain.svg" width="5%" height="5%"/>
     </a>
     <a>
         <img alt="C++" src="img/cplusplus/cplusplus-plain.svg" width="25%" height="25%"/>
