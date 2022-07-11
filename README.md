@@ -1,18 +1,18 @@
 <p align = "center">
     <a>
-        <img alt="Python" src="img/python/python-plain.svg.svg"/>
+        <img alt="Python" src="img/python/python-plain.svg" width="25%" height="25%"/>
     </a>
     <a>
-        <img alt="C" src="img/c/c-plain.svg"/>
+        <img alt="C" src="img/c/c-plain.svg" width="25%" height="25%"/>
     </a>
     <a>
-        <img alt="C++" src="img/cplusplus/cplusplus-plain.svg"/>
+        <img alt="C++" src="img/cplusplus/cplusplus-plain.svg" width="25%" height="25%"/>
     </a>
     <a>
-        <img alt="C#" src="img/csharp/csharp-plain.svg"/>
+        <img alt="C#" src="img/csharp/csharp-plain.svg" width="25%" height="25%"/>
     </a>
     <a>
-        <img alt="Bash" src="img/bash/bash-plain.svg"/>
+        <img alt="Bash" src="img/bash/bash-plain.svg" width="25%" height="25%"/>
     </a>
 </p>
 
