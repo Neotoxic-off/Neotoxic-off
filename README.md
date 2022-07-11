@@ -1,18 +1,18 @@
 <p align = "center">
     <a>
-        <img alt="Python" src="https://img.shields.io/badge/python%20-%2314354C.svg?&style=for-the-badge&logo=python&logoColor=cyan"/>
+        <img alt="Python" src="img/python/python-plain.svg.svg"/>
     </a>
     <a>
-        <img alt="C" src="https://img.shields.io/badge/c%20-%2300599C.svg?&style=for-the-badge&logo=c&ogoColor=white"/>
+        <img alt="C" src="img/c/c-plain.svg"/>
     </a>
     <a>
-        <img alt="C++" src="https://img.shields.io/badge/c++%20-%23e30000.svg?&style=for-the-badge&logo=c%2B%2B&ogoColor=white"/>
+        <img alt="C++" src="img/cplusplus/cplusplus-plain.svg"/>
     </a>
     <a>
-        <img alt="C#" src="https://img.shields.io/badge/c%23%20-%23391ed4.svg?&style=for-the-badge&logo=c-sharp&logoColor=white"/>
+        <img alt="C#" src="img/csharp/csharp-plain.svg"/>
     </a>
     <a>
-        <img alt="Shell Script" src="https://img.shields.io/badge/shell_script%20-%23121011.svg?&style=for-the-badge&logo=gnu-bash&logoColor=white"/>
+        <img alt="Bash" src="img/bash/bash-plain.svg"/>
     </a>
 </p>
 
