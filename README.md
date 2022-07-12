@@ -86,16 +86,16 @@
 
 <h1 align="center">
     <p>
-        <img src="https://github-readme-stats.vercel.app/api/pin/?username=Elevatia&repo=Immunity&title_color=DD6387&icon_color=DD6387&bg_color=282A36">
-        <img src="https://github-readme-stats.vercel.app/api/pin/?username=Elevatia&repo=Stabbed&title_color=DD6387&icon_color=DD6387&bg_color=282A36">
+        <img src="https://github-readme-stats.vercel.app/api/pin/?username=Elevatia&repo=Immunity&theme=dracula">
+        <img src="https://github-readme-stats.vercel.app/api/pin/?username=Elevatia&repo=Stabbed&theme=dracula">
     </p>
     <p>
-        <img src="https://github-readme-stats.vercel.app/api/pin/?username=Elevatia&repo=Dies-Irae&title_color=DD6387&icon_color=DD6387&bg_color=282A36">
-        <img src="https://github-readme-stats.vercel.app/api/pin/?username=Elevatia&repo=Kyrie&title_color=DD6387&icon_color=DD6387&bg_color=282A36">
+        <img src="https://github-readme-stats.vercel.app/api/pin/?username=Elevatia&repo=Dies-Irae&theme=dracula">
+        <img src="https://github-readme-stats.vercel.app/api/pin/?username=Elevatia&repo=Kyrie&theme=dracula">
     </p>
     <p>
-        <img src="https://github-readme-stats.vercel.app/api/pin/?username=Elevatia&repo=anakata&title_color=DD6387&icon_color=DD6387&bg_color=282A36">
-        <img src="https://github-readme-stats.vercel.app/api/pin/?username=Elevatia&repo=Redose&title_color=DD6387&icon_color=DD6387&bg_color=282A36">
+        <img src="https://github-readme-stats.vercel.app/api/pin/?username=Elevatia&repo=anakata&theme=dracula">
+        <img src="https://github-readme-stats.vercel.app/api/pin/?username=Elevatia&repo=Redose&theme=dracula">
     </p>
 </h1>
 
