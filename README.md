@@ -68,9 +68,6 @@
     <p>
         <img src="https://readme-typing-svg.herokuapp.com/?color=DD6387&center=true&lines=Third+party+%26+Tools+builder">
     </p>
-    <p>
-        <img src="https://readme-typing-svg.herokuapp.com?color=DD6387&center=true&lines=Breach+exploiter">
-    </p>
 </h1>
 
 <h1 align="center">
