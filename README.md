@@ -14,6 +14,9 @@
     <a>
         <img alt="Bash" src="img/bash/bash-plain.svg" width="5%" height="5%"/>
     </a>
+     <a>
+        <img alt="Bash" src="img/react/react-original.svg" width="5%" height="5%"/>
+    </a>
     <a>
         <img alt="Docker" src="img/docker/docker-plain.svg" width="5%" height="5%"/>
     </a>
