@@ -27,12 +27,6 @@
         <img alt="Mongodb" src="img/mongodb/mongodb-plain.svg" width="5%" height="5%"/>
     </a>
     <a>
-        <img alt="Flask" src="img/flask/flask-original.svg" width="5%" height="5%"/>
-    </a>
-    <a>
-        <img alt="Heroku" src="img/heroku/heroku-plain.svg"  width="5%" height="5%"/>
-    </a>
-    <a>
         <img alt="Dotnet" src="img/dotnetcore/dotnetcore-plain.svg" width="5%" height="5%"/>
     </a>
     <a>
@@ -58,13 +52,7 @@
     </a>
     <a>
         <img alt="Markdown" src="img/markdown/markdown-original.svg" width="5%" height="5%"/>
-    </a>
-    <a>
-        <img alt="Unity" src="img/unity/unity-original.svg" width="5%" height="5%"/>
-    </a>
-    <a>
-        <img alt="Unreal" src="img/unrealengine/unrealengine-original.svg" width="5%" height="5%"/>
-    </a>
+    </a>  
 </p>
 
 <h1 align="center">
