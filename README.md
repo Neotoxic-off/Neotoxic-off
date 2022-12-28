@@ -39,7 +39,7 @@
         <img alt="Github" src="img/github/github-original.svg" width="5%" height="5%"/>
     </a>
     <a>
-        <img alt="Linux" src="img/linux/linux-plain.svg" width="5%" height="5%"/>
+        <img alt="Linux" src="img/linux/linux-original.svg" width="5%" height="5%"/>
     </a>
     <a>
         <img alt="Windows" src="img/windows8/windows8-original.svg" width="5%" height="5%"/>
