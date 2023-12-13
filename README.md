@@ -62,13 +62,15 @@
     <p>
         <img src="https://readme-typing-svg.herokuapp.com/?color=DD6387&center=true&lines=Tools+builder+%26+Software+Engineer"/>
     </p>
+     <p>
+        <img src="https://img.shields.io/badge/dynamic/json?style=for-the-badge&labelColor=black&color=%23ffa116&label=Solved&query=solvedOverTotal&url=https%3A%2F%2Fbadge.xyli.tech/%2Fapi%2Fusers%2FNeotoxic-off&logo=leetcode&logoColor=yellow"/>
+    </p>
 </h1>
 
 <h1 align="center">
     <p>
         <img src="https://github-readme-stats.vercel.app/api?username=Neotoxic-off&hide_border=true&count_private=true&show_icons=true&theme=dracula"/>
         <img src="https://github-readme-stats-three-dun.vercel.app/api/top-langs/?username=Neotoxic-off&theme=dracula&hide_border=true&layout=compact"/>
-        <img src="https://github-readme-activity-graph.vercel.app/graph?username=Neotoxic-off&theme=dracula"/>
     </p>
 </h1>
 
