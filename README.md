@@ -1,3 +1,19 @@
+
+<h1 align="center">
+    <a>
+        <img alt="cutter" src="img/Cutter_Logo.png" width="5%" height="5%"/>
+    </a>
+    <a>
+        <img alt="Dnspy" src="img/DnSpy-logo.png" width="5%" height="5%"/>
+    </a>
+    <a>
+        <img alt="x64DBG" src="img/Untitled-removebg-preview.png" width="5%" height="5%"/>
+    </a>
+    <a>
+        <img alt="Ida" src="img/file-removebg-preview.png" width="5%" height="5%"/>
+    </a>
+</h1>
+
 <p align = "center">
     <a>
         <img alt="Python" src="img/python/python-plain.svg" width="5%" height="5%"/>
