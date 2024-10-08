@@ -28,10 +28,10 @@
         <img alt="C#" src="img/csharp/csharp-plain.svg" width="5%" height="5%"/>
     </a>
     <a>
-        <img alt="Bash" src="img/bash/bash-plain.svg" width="5%" height="5%"/>
+        <img alt="Rust" src="img/rust/rust-plain.svg" width="5%" height="5%"/>
     </a>
-     <a>
-        <img alt="ReactJS" src="img/react/react-original.svg" width="5%" height="5%"/>
+    <a>
+        <img alt="Bash" src="img/bash/bash-plain.svg" width="5%" height="5%"/>
     </a>
     <a>
         <img alt="Fastapi" src="img/fastapi/fastapi-original.svg" width="5%" height="5%"/>
@@ -40,13 +40,22 @@
         <img alt="Docker" src="img/docker/docker-plain.svg" width="5%" height="5%"/>
     </a>
     <a>
+        <img alt="Grafana" src="img/grafana/grafana-original.svg" width="5%" height="5%"/>
+    </a>
+    <a>
+        <img alt="Prometheus" src="img/prometheus/prometheus-original.svg" width="5%" height="5%"/>
+    </a>
+    <a>
         <img alt="Mongodb" src="img/mongodb/mongodb-plain.svg" width="5%" height="5%"/>
+    </a>
+    <a>
+        <img alt="Postgresql" src="img/postgresql/postgresql-original.svg" width="5%" height="5%"/>
     </a>
     <a>
         <img alt="Dotnet" src="img/dotnetcore/dotnetcore-plain.svg" width="5%" height="5%"/>
     </a>
     <a>
-        <img alt="Dotnet" src="img/dot-net/dot-net-plain.svg" width="5%" height="5%"/>
+        <img alt="Dotnetframework" src="img/dot-net/dot-net-plain.svg" width="5%" height="5%"/>
     </a>
     <a>
         <img alt="Git" src="img/git/git-plain.svg" width="5%" height="5%"/>
