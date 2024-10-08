@@ -37,15 +37,6 @@
         <img alt="Fastapi" src="img/fastapi/fastapi-original.svg" width="5%" height="5%"/>
     </a>
     <a>
-        <img alt="Docker" src="img/docker/docker-plain.svg" width="5%" height="5%"/>
-    </a>
-    <a>
-        <img alt="Grafana" src="img/grafana/grafana-original.svg" width="5%" height="5%"/>
-    </a>
-    <a>
-        <img alt="Prometheus" src="img/prometheus/prometheus-original.svg" width="5%" height="5%"/>
-    </a>
-    <a>
         <img alt="Mongodb" src="img/mongodb/mongodb-plain.svg" width="5%" height="5%"/>
     </a>
     <a>
@@ -61,15 +52,30 @@
         <img alt="Git" src="img/git/git-plain.svg" width="5%" height="5%"/>
     </a>
     <a>
-        <img alt="Github" src="img/github/github-original.svg" width="5%" height="5%"/>
-    </a>
-    <a>
         <img alt="Linux" src="img/linux/linux-original.svg" width="5%" height="5%"/>
     </a>
     <a>
         <img alt="Windows" src="img/windows8/windows8-original.svg" width="5%" height="5%"/>
     </a>
+</p>
+
+<h1 align="center">
+     <a>
+        <img alt="Docker" src="img/docker/docker-plain.svg" width="5%" height="5%"/>
+    </a>
     <a>
+        <img alt="Grafana" src="img/grafana/grafana-original.svg" width="5%" height="5%"/>
+    </a>
+    <a>
+        <img alt="Prometheus" src="img/prometheus/prometheus-original.svg" width="5%" height="5%"/>
+    </a>
+     <a>
+        <img alt="Github" src="img/github/github-original.svg" width="5%" height="5%"/>
+    </a>
+</h1>
+
+<h1 align="center">
+     <a>
         <img alt="Vim" src="img/vim/vim-plain.svg" width="5%" height="5%"/>
     </a>
     <a>
@@ -77,8 +83,8 @@
     </a>
     <a>
         <img alt="Markdown" src="img/markdown/markdown-original.svg" width="5%" height="5%"/>
-    </a>  
-</p>
+    </a> 
+</h1>
 
 <h1 align="center">
     <p>
