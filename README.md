@@ -113,6 +113,6 @@
 </p>
 
 <p align = "center">
-    <img src="https://img.shields.io/badge/GPG%20key%20ID:-4AEE18F83AFDEB23-green">
+    <img src="https://img.shields.io/badge/GPG%20key%20ID:-139E64ACD9708D51-green">
 </p>
 
