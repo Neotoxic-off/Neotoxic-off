@@ -1,117 +1,69 @@
-
-<h1 align="center">
-    <a>
-        <img alt="cutter" src="img/Cutter_Logo.png" width="5%" height="5%"/>
-    </a>
-    <a>
-        <img alt="Dnspy" src="img/DnSpy-logo.png" width="5%" height="5%"/>
-    </a>
-    <a>
-        <img alt="x64DBG" src="img/Untitled-removebg-preview.png" width="5%" height="5%"/>
-    </a>
-    <a>
-        <img alt="Ida" src="img/file-removebg-preview.png" width="5%" height="5%"/>
-    </a>
-</h1>
-
-<p align = "center">
-    <a>
-        <img alt="Python" src="img/python/python-plain.svg" width="5%" height="5%"/>
-    </a>
-    <a>
-        <img alt="C" src="img/c/c-plain.svg" width="5%" height="5%"/>
-    </a>
-    <a>
-        <img alt="C++" src="img/cplusplus/cplusplus-plain.svg" width="5%" height="5%"/>
-    </a>
-    <a>
-        <img alt="C#" src="img/csharp/csharp-plain.svg" width="5%" height="5%"/>
-    </a>
-    <a>
-        <img alt="Rust" src="img/rust/rust-plain.svg" width="5%" height="5%"/>
-    </a>
-    <a>
-        <img alt="Bash" src="img/bash/bash-plain.svg" width="5%" height="5%"/>
-    </a>
-    <a>
-        <img alt="Fastapi" src="img/fastapi/fastapi-original.svg" width="5%" height="5%"/>
-    </a>
-    <a>
-        <img alt="Mongodb" src="img/mongodb/mongodb-plain.svg" width="5%" height="5%"/>
-    </a>
-    <a>
-        <img alt="Postgresql" src="img/postgresql/postgresql-original.svg" width="5%" height="5%"/>
-    </a>
-    <a>
-        <img alt="Dotnet" src="img/dotnetcore/dotnetcore-plain.svg" width="5%" height="5%"/>
-    </a>
-    <a>
-        <img alt="Dotnetframework" src="img/dot-net/dot-net-plain.svg" width="5%" height="5%"/>
-    </a>
-    <a>
-        <img alt="Git" src="img/git/git-plain.svg" width="5%" height="5%"/>
-    </a>
-    <a>
-        <img alt="Linux" src="img/linux/linux-original.svg" width="5%" height="5%"/>
-    </a>
-    <a>
-        <img alt="Windows" src="img/windows8/windows8-original.svg" width="5%" height="5%"/>
-    </a>
-</p>
-
-<h1 align="center">
-     <a>
-        <img alt="Docker" src="img/docker/docker-plain.svg" width="5%" height="5%"/>
-    </a>
-    <a>
-        <img alt="Grafana" src="img/grafana/grafana-original.svg" width="5%" height="5%"/>
-    </a>
-    <a>
-        <img alt="Prometheus" src="img/prometheus/prometheus-original.svg" width="5%" height="5%"/>
-    </a>
-     <a>
-        <img alt="Github" src="img/github/github-original.svg" width="5%" height="5%"/>
-    </a>
-</h1>
-
-<h1 align="center">
-     <a>
-        <img alt="Vim" src="img/vim/vim-plain.svg" width="5%" height="5%"/>
-    </a>
-    <a>
-        <img alt="Latex" src="img/latex/latex-original.svg" width="5%" height="5%"/>
-    </a>
-    <a>
-        <img alt="Markdown" src="img/markdown/markdown-original.svg" width="5%" height="5%"/>
-    </a> 
-</h1>
-
-<h1 align="center">
-    <p>
-        <img src="https://readme-typing-svg.herokuapp.com/?color=DD6387&center=true&lines=Developer+-+Reverser+-+Cheater"/>
+<div align="center">
+    <p align="center">
+        <img src="https://readme-typing-svg.herokuapp.com?color=DD6387&center=true&lines=Developer+%7C+Reverser+%7C+Engineer;Tools+Builder+%7C+Cheater" />
     </p>
-    <p>
-        <img src="https://readme-typing-svg.herokuapp.com/?color=DD6387&center=true&lines=Tools+builder+%26+Software+Engineer"/>
+    <p align="center">
+        This is my design.
     </p>
-     <p>
-        <img src="https://img.shields.io/badge/dynamic/json?style=for-the-badge&labelColor=black&color=%23ffa116&label=Solved&query=solvedOverTotal&url=https%3A%2F%2Fbadge.xyli.tech/%2Fapi%2Fusers%2FNeotoxic-off&logo=leetcode&logoColor=yellow"/>
-    </p>
-</h1>
+</div>
 
-<h1 align="center">
-    <p>
-        <img src="https://raw.githubusercontent.com/Neotoxic-off/Neotoxic-off/master/profile-3d-contrib/profile-night-green.svg"/>
-        <img src="https://github-readme-stats.vercel.app/api?username=Neotoxic-off&hide_border=true&count_private=true&show_icons=true&theme=dracula"/>
-        <img src="https://github-readme-stats-three-dun.vercel.app/api/top-langs/?username=Neotoxic-off&theme=dracula&hide_border=true&layout=compact"/>
-    </p>
-</h1>
+<table align="center">
+<tr>
+    <td align="center"><strong>Reverse Engineering</strong></td>
+    <td align="center"><strong>Programming Languages</strong></td>
+    <td align="center"><strong>Development Tools</strong></td>
+</tr>
+<tr>
+    <td align="center">
+        <img src="img/Cutter_Logo.png" alt="Cutter" width="50" />
+        <img src="img/DnSpy-logo.png" alt="DnSpy" width="50" />
+        <img src="img/Untitled-removebg-preview.png" alt="x64DBG" width="50" />
+        <img src="img/file-removebg-preview.png" alt="IDA Pro" width="50" />
+    </td>
+    <td align="center">
+        <img src="img/python/python-plain.svg" alt="Python" width="50" />
+        <img src="img/c/c-plain.svg" alt="C" width="50" />
+        <img src="img/cplusplus/cplusplus-plain.svg" alt="C++" width="50" />
+        <img src="img/csharp/csharp-plain.svg" alt="C#" width="50" />
+        <img src="img/rust/rust-plain.svg" alt="Rust" width="50" />
+        <img src="img/bash/bash-plain.svg" alt="Bash" width="50" />
+    </td>
+    <td align="center">
+        <img src="img/docker/docker-plain.svg" alt="Docker" width="50" />
+        <img src="img/git/git-plain.svg" alt="Git" width="50" />
+        <img src="img/github/github-original.svg" alt="GitHub" width="50" />
+        <img src="img/grafana/grafana-original.svg" alt="Grafana" width="50" />
+        <img src="img/prometheus/prometheus-original.svg" alt="Prometheus" width="50" />
+    </td>
+</tr>
 
+<tr>
+    <td align="center"><strong>Frameworks & Libraries</strong></td>
+    <td align="center"><strong>Databases</strong></td>
+    <td align="center"><strong>Text Editors</strong></td>
+</tr>
+<tr>
+    <td align="center">
+        <img src="img/fastapi/fastapi-original.svg" alt="FastAPI" width="50" />
+        <img src="img/dotnetcore/dotnetcore-plain.svg" alt=".NET Core" width="50" />
+        <img src="img/dot-net/dot-net-plain.svg" alt=".NET Framework" width="50" />
+    </td>
+    <td align="center">
+        <img src="img/mongodb/mongodb-plain.svg" alt="MongoDB" width="50" />
+        <img src="img/postgresql/postgresql-original.svg" alt="PostgreSQL" width="50" />
+    </td>
+    <td align="center">
+        <img src="img/vim/vim-plain.svg" alt="Vim" width="50" />
+        <img src="img/latex/latex-original.svg" alt="LaTeX" width="50" />
+        <img src="img/markdown/markdown-original.svg" alt="Markdown" width="50" />
+    </td>
+</tr>
+</table>
 
-<p align = "center">
-    Хочешь в игру, но ты просто не там
-</p>
+---
 
-<p align = "center">
-    <img src="https://img.shields.io/badge/GPG%20key%20ID:-139E64ACD9708D51-green">
-</p>
+<div align="center">
+    <img src="https://github-readme-stats.vercel.app/api?username=Neotoxic-off&hide_border=true&count_private=true&show_icons=true&theme=dracula" alt="GitHub Stats" width="400" />
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Neotoxic-off&theme=dracula&hide_border=true&layout=compact" alt="Top Languages" width="400" />
+</div>
 
