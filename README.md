@@ -103,7 +103,6 @@
         <img src="https://raw.githubusercontent.com/Neotoxic-off/Neotoxic-off/master/profile-3d-contrib/profile-night-green.svg"/>
         <img src="https://github-readme-stats.vercel.app/api?username=Neotoxic-off&hide_border=true&count_private=true&show_icons=true&theme=dracula"/>
         <img src="https://github-readme-stats-three-dun.vercel.app/api/top-langs/?username=Neotoxic-off&theme=dracula&hide_border=true&layout=compact"/>
-        <img src="https://github-profile-trophy.vercel.app/?username=Neotoxic-off&theme=juicyfresh&margin-w=15&margin-h=15"/>
     </p>
 </h1>
 
