@@ -63,7 +63,7 @@
 ---
 
 <div align="center">
-    <img src="https://github-readme-stats.vercel.app/api?username=Neotoxic-off&hide_border=true&count_private=true&show_icons=true&theme=dracula" alt="GitHub Stats" width="400" />
+      <img  alt="Neotoxic-off's GitHub Stats" src="https://awesome-github-stats.azurewebsites.net/user-stats/Neotoxic-off?cardType=level&theme=dracula&preferLogin=false&Border=DD272700" />
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Neotoxic-off&theme=dracula&hide_border=true&layout=compact" alt="Top Languages" width="400" />
 </div>
 
