@@ -3,7 +3,7 @@
         <img src="https://readme-typing-svg.herokuapp.com?color=DD6387&center=true&lines=Developer+%7C+Reverser+%7C+Engineer;Tools+Builder+%7C+Cheater" />
     </p>
     <p align="center">
-        This is my design.
+        You can't be afraid of the dark if you know how to control the light
     </p>
 </div>
 
