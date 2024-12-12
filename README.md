@@ -64,7 +64,7 @@
 ---
 
 <div align="center">
-      <img  alt="Neotoxic-off's GitHub Stats" src="https://awesome-github-stats.azurewebsites.net/user-stats/Neotoxic-off?cardType=level&theme=dracula&preferLogin=false&Border=DD272700" />
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Neotoxic-off&theme=dracula&hide_border=true&layout=compact" alt="Top Languages" width="400" />
+    <img  alt="Neotoxic-off's GitHub Stats" src="https://awesome-github-stats.azurewebsites.net/user-stats/Neotoxic-off?cardType=level&theme=dracula&preferLogin=false&Border=DD272700" width="37%" />
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Neotoxic-off&theme=dracula&hide_border=true&layout=compact" alt="Top Languages" width="30%" />
 </div>
 
