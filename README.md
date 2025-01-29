@@ -55,6 +55,7 @@
     </td>
     <td align="center">
         <img src="img/vim/vim-plain.svg" alt="Vim" width="50" />
+        <img src="img/nvchad.png" alt="Vim" width="50" />
         <img src="img/latex/latex-original.svg" alt="LaTeX" width="50" />
         <img src="img/markdown/markdown-original.svg" alt="Markdown" width="50" />
     </td>
