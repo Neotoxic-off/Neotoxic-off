@@ -1,6 +1,6 @@
 <div align="center">
     <p align="center">
-        <img src="https://readme-typing-svg.herokuapp.com?color=DD6387&center=true&lines=Developer+%7C+Reverser+%7C+Engineer;Tools+Builder+%7C+Cheater" />
+        <img src="https://readme-typing-svg.herokuapp.com?color=DD6387&center=true&lines=Tools+Developer+%7C+Reverser+%7C+Engineer" />
     </p>
     <p align="center">
         You can't be afraid of the dark if you know how to control the light
