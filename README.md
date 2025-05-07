@@ -68,10 +68,8 @@
 <table align="center">
 <tr>
     <td align="center">
-        <img src="https://github-readme-stats.vercel.app/api?username=Neotoxic-off&show_icons=true&hide_border=true&theme=dracula" width="85%" />
-    </td>
-    <td align="center">
-        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Neotoxic-off&theme=dracula&hide_border=true&layout=compact" width="100%" />
+        <img src="https://github-readme-stats.vercel.app/api?username=Neotoxic-off&show_icons=true&hide_border=true&theme=dracula" width="50%" />
+        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Neotoxic-off&theme=dracula&hide_border=true&layout=compact" width="38%" />
     </td>
 </tr>
 </table>
