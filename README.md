@@ -1,6 +1,6 @@
 <div align="center">
     <p align="center">
-        <img src="https://readme-typing-svg.herokuapp.com?color=DD6387&center=true&lines=Tools+Developer+%7C+Cheater" />
+        <img src="https://readme-typing-svg.herokuapp.com?color=DD6387&center=true&lines=Tools+Developer+%7C+Software+Engineer" />
     </p>
     <p align="center">
         The only thing i care about is knowledge
