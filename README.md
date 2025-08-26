@@ -66,12 +66,21 @@
 
 <table align="center">
 <tr>
+    <td align="center"><strong>OS</strong></td>
     <td align="center"><strong>Threat Analysis</strong></td>
 </tr>
 <tr>
     <td align="center">
-        <img src="img/cape2.png" alt="Vim" width="50" />
-        <img src="img/misp.png" alt="Vim" width="50" />
+        <img src="img/ubuntu.png" alt="ubuntu" width="50" />
+        <img src="img/macos.png" alt="macos" width="50" />
+        <img src="img/windows.png" alt="windows" width="50" />
+        <img src="img/proxmox.png" alt="proxmox" width="50" />
+        <img src="img/arch.png" alt="arch" width="50" />
+        <img src="img/kali.png" alt="kali" width="50" />
+    </td>
+    <td align="center">
+        <img src="img/cape2.png" alt="cape2" width="50" />
+        <img src="img/misp.png" alt="misp" width="50" />
     </td>
 </tr>
 </table>
