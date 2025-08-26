@@ -51,7 +51,8 @@
     <td align="center">
         <img src="img/mongodb/mongodb-plain.svg" alt="MongoDB" width="50" />
         <img src="img/postgresql/postgresql-original.svg" alt="PostgreSQL" width="50" />
-        <img src="img/influxdb.png" alt="InflixDB" width="50" />
+        <img src="img/influxdb.png" alt="InfluxDB" width="50" />
+        <img src="img/neo4j.png" alt="neo4j" width="50" />
     </td>
     <td align="center">
         <img src="img/vim/vim-plain.svg" alt="Vim" width="50" />
