@@ -64,6 +64,19 @@
 
 ---
 
+<table align="center">
+<tr>
+    <td align="center"><strong>Threat Analysis</strong></td>
+</tr>
+<tr>
+    <td align="center">
+        <img src="img/cape2.png" alt="Vim" width="50" />
+        <img src="img/misp.png" alt="Vim" width="50" />
+    </td>
+</tr>
+</table>
+
+---
 
 <table align="center">
 <tr>
